@@ -16,7 +16,7 @@ class MainClass {
     // Сортировка по возрастанию
     Array.Sort(nums);
 
-    // Вывод всех элементов массива3 
+    // Вывод всех элементов массива
     for(int i = 0; i < nums.Length; i++)
       Console.WriteLine(nums[i]);
 
